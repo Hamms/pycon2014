@@ -1,1 +1,3 @@
 "there's no such thing as a small change in a large system" - referenced by Kate Heddleston in her talk
+
+"untested code is where the bugs go to hide" - Tres Seaver in his talk
